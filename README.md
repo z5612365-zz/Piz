@@ -5,12 +5,22 @@
 This is a developing project.
 
 ## Target
-Maya asset managet
+### Maya
+- Maya Asset Manager
+  ma/mb stl/obj
+  
+- Image preview for 3D Asset [Consider point density to render]
+- Convert to stl
 
+
+### Pipeline Management
+- Plugin list
+- Schedule control system
+- Task Management
 
 ## Tech
 
-- PostgreSQL
+- PostgreSQL 9.6.6
 
 https://www.postgresql.org/download/linux/ubuntu/
 
