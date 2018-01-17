@@ -4,7 +4,7 @@
 
 This is a developing project.
 
-## Target
+## TODO
 ### Maya
 - Maya Asset Manager
   ma/mb stl/obj
@@ -17,6 +17,19 @@ This is a developing project.
 - Plugin list
 - Schedule control system
 - Task Management
+
+
+### Asset Reduction
+- Reduce the File Size
+- Mesh Simplify [https://github.com/fogleman/simplify]
+- Polygon Counter: Count Faces
+
+
+### Animation
+- Motion Capture
+- Facial Mocap
+
+### Rigging
 
 ## Tech
 
