@@ -34,6 +34,7 @@ This is a developing project.
 ## Tech
 
 - PostgreSQL 9.6.6
+- Neo4j: Graph Databases
 
 https://www.postgresql.org/download/linux/ubuntu/
 
